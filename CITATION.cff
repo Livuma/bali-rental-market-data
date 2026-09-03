@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Bali Rental Market Data"
+type: dataset
+authors:
+  - name: "Livuma (PT Livuma Home Market)"
+    website: "https://livuma.com"
+repository-code: "https://github.com/Livuma/bali-rental-market-data"
+url: "https://livuma.com/bali-rental-prices"
+license: CC-BY-4.0
+abstract: >-
+  Monthly median asking prices for long-term rentals and villas for sale across Bali areas,
+  with 10th to 90th percentile ranges and listing counts, computed from live listings on the
+  Livuma marketplace.
+keywords:
+  - Bali
+  - rental prices
+  - real estate
+  - Indonesia
+  - open data
