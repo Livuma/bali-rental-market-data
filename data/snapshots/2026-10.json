@@ -1,0 +1,316 @@
+{
+  "source": "Livuma listing data — computed from live listings on the Livuma marketplace",
+  "attribution": "Livuma (https://livuma.com/bali-rental-prices)",
+  "currency": "IDR",
+  "methodology": "Median asking price per area; typicalRange is the 10th–90th percentile band. Areas with fewer than 3 listings in a category are excluded. Captured monthly. medianChangeVsPreviousMonthPercent is only present when the previous calendar month was captured.",
+  "latestPeriod": "2026-10",
+  "previousPeriod": "2026-09",
+  "capturedAtUtc": "2026-10-02T01:30:00.003305",
+  "longTermRentals": [
+    {
+      "area": "Canggu",
+      "areaSlug": "canggu",
+      "listings": 195,
+      "median": 41040000.0,
+      "typicalRangeLow": 19000000.0,
+      "typicalRangeHigh": 70680000.0,
+      "medianChangeVsPreviousMonthPercent": -5.0
+    },
+    {
+      "area": "Uluwatu",
+      "areaSlug": "uluwatu",
+      "listings": 66,
+      "median": 38000000.0,
+      "typicalRangeLow": 19470000.0,
+      "typicalRangeHigh": 70000000.0,
+      "medianChangeVsPreviousMonthPercent": 7.6
+    },
+    {
+      "area": "Berawa",
+      "areaSlug": "berawa",
+      "listings": 65,
+      "median": 45000000.0,
+      "typicalRangeLow": 19000000.0,
+      "typicalRangeHigh": 68536800.0,
+      "medianChangeVsPreviousMonthPercent": 0
+    },
+    {
+      "area": "Pererenan",
+      "areaSlug": "pererenan",
+      "listings": 48,
+      "median": 37900000.0,
+      "typicalRangeLow": 18000000.0,
+      "typicalRangeHigh": 52998000.0,
+      "medianChangeVsPreviousMonthPercent": -0.3
+    },
+    {
+      "area": "Ubud",
+      "areaSlug": "ubud",
+      "listings": 45,
+      "median": 30000000.0,
+      "typicalRangeLow": 14016000.0,
+      "typicalRangeHigh": 76572000.0,
+      "medianChangeVsPreviousMonthPercent": -18.3
+    },
+    {
+      "area": "Seminyak",
+      "areaSlug": "seminyak",
+      "listings": 38,
+      "median": 35000000.0,
+      "typicalRangeLow": 21880000.0,
+      "typicalRangeHigh": 56320000.0,
+      "medianChangeVsPreviousMonthPercent": 0
+    },
+    {
+      "area": "Tabanan",
+      "areaSlug": "tabanan",
+      "listings": 26,
+      "median": 32500000.0,
+      "typicalRangeLow": 19500000.0,
+      "typicalRangeHigh": 69500000.0,
+      "medianChangeVsPreviousMonthPercent": -3.0
+    },
+    {
+      "area": "Seseh",
+      "areaSlug": "seseh",
+      "listings": 19,
+      "median": 44000000.0,
+      "typicalRangeLow": 21200000.0,
+      "typicalRangeHigh": 100000000.0,
+      "medianChangeVsPreviousMonthPercent": 0
+    },
+    {
+      "area": "Cemagi",
+      "areaSlug": "cemagi",
+      "listings": 18,
+      "median": 40000000.0,
+      "typicalRangeLow": 22000000.0,
+      "typicalRangeHigh": 82500000.0,
+      "medianChangeVsPreviousMonthPercent": 14.3
+    },
+    {
+      "area": "Jimbaran",
+      "areaSlug": "jimbaran",
+      "listings": 16,
+      "median": 33500000.0,
+      "typicalRangeLow": 15750000.0,
+      "typicalRangeHigh": 47500000.0,
+      "medianChangeVsPreviousMonthPercent": -1.5
+    },
+    {
+      "area": "Nusa Dua",
+      "areaSlug": "nusa-dua",
+      "listings": 7,
+      "median": 30000000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": 7.1
+    },
+    {
+      "area": "Sanur",
+      "areaSlug": "sanur",
+      "listings": 6,
+      "median": 22500000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": 0
+    },
+    {
+      "area": "Legian",
+      "areaSlug": "legian",
+      "listings": 4,
+      "median": 140500000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": 0
+    }
+  ],
+  "villasForSale": [
+    {
+      "area": "Canggu",
+      "areaSlug": "canggu",
+      "listings": 39,
+      "median": 4600000000.0,
+      "typicalRangeLow": 1930000000.0,
+      "typicalRangeHigh": 9640000000.0,
+      "medianChangeVsPreviousMonthPercent": 1.1
+    },
+    {
+      "area": "Tabanan",
+      "areaSlug": "tabanan",
+      "listings": 30,
+      "median": 4600000000.0,
+      "typicalRangeLow": 1652692300.0,
+      "typicalRangeHigh": 8939225000.0,
+      "medianChangeVsPreviousMonthPercent": 3.3
+    },
+    {
+      "area": "Ubud",
+      "areaSlug": "ubud",
+      "listings": 26,
+      "median": 4950000000.0,
+      "typicalRangeLow": 1154500000.0,
+      "typicalRangeHigh": 11201700000.0,
+      "medianChangeVsPreviousMonthPercent": 7.6
+    },
+    {
+      "area": "Uluwatu",
+      "areaSlug": "uluwatu",
+      "listings": 16,
+      "median": 3488742125.0,
+      "typicalRangeLow": 2010000000.0,
+      "typicalRangeHigh": 5788125000.0,
+      "medianChangeVsPreviousMonthPercent": -14.5
+    },
+    {
+      "area": "Berawa",
+      "areaSlug": "berawa",
+      "listings": 14,
+      "median": 3800000000.0,
+      "typicalRangeLow": 1775000000.0,
+      "typicalRangeHigh": 6671000000.0,
+      "medianChangeVsPreviousMonthPercent": -21.2
+    },
+    {
+      "area": "Nusa Dua",
+      "areaSlug": "nusa-dua",
+      "listings": 10,
+      "median": 5025000000.0,
+      "typicalRangeLow": 2840000000.0,
+      "typicalRangeHigh": 15100000000.0,
+      "medianChangeVsPreviousMonthPercent": 0
+    },
+    {
+      "area": "Sanur",
+      "areaSlug": "sanur",
+      "listings": 9,
+      "median": 4255000000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": 8.5
+    },
+    {
+      "area": "Cemagi",
+      "areaSlug": "cemagi",
+      "listings": 9,
+      "median": 6000000000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": 22.4
+    },
+    {
+      "area": "Jimbaran",
+      "areaSlug": "jimbaran",
+      "listings": 8,
+      "median": 3075000000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": -21.2
+    },
+    {
+      "area": "Pererenan",
+      "areaSlug": "pererenan",
+      "listings": 7,
+      "median": 6020000000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": 4.9
+    },
+    {
+      "area": "Seminyak",
+      "areaSlug": "seminyak",
+      "listings": 6,
+      "median": 5250000000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": 0
+    },
+    {
+      "area": "Seseh",
+      "areaSlug": "seseh",
+      "listings": 6,
+      "median": 10600000000.0,
+      "typicalRangeLow": null,
+      "typicalRangeHigh": null,
+      "medianChangeVsPreviousMonthPercent": 0
+    }
+  ],
+  "history": {
+    "periods": [
+      "2026-08",
+      "2026-09",
+      "2026-10"
+    ],
+    "medianMonthlyRentByArea": {
+      "jimbaran": {
+        "2026-10": 33500000.0,
+        "2026-09": 34000000.0,
+        "2026-08": 30000000.0
+      },
+      "cemagi": {
+        "2026-09": 35000000.0,
+        "2026-10": 40000000.0
+      },
+      "nusa-dua": {
+        "2026-10": 30000000.0,
+        "2026-08": 28000000.0,
+        "2026-09": 28000000.0
+      },
+      "tabanan": {
+        "2026-09": 33500000.0,
+        "2026-08": 37000000.0,
+        "2026-10": 32500000.0
+      },
+      "seminyak": {
+        "2026-10": 35000000.0,
+        "2026-08": 42800000.0,
+        "2026-09": 35000000.0
+      },
+      "legian": {
+        "2026-08": 42800000.0,
+        "2026-09": 140500000.0,
+        "2026-10": 140500000.0
+      },
+      "canggu": {
+        "2026-09": 43200000.0,
+        "2026-10": 41040000.0,
+        "2026-08": 43000000.0
+      },
+      "uluwatu": {
+        "2026-09": 35320000.0,
+        "2026-10": 38000000.0,
+        "2026-08": 38000000.0
+      },
+      "ubud": {
+        "2026-10": 30000000.0,
+        "2026-09": 36720000.0,
+        "2026-08": 43600000.0
+      },
+      "sanur": {
+        "2026-10": 22500000.0,
+        "2026-09": 22500000.0,
+        "2026-08": 28080000.0
+      },
+      "berawa": {
+        "2026-08": 43000000.0,
+        "2026-09": 45000000.0,
+        "2026-10": 45000000.0
+      },
+      "kuta": {
+        "2026-08": 40000000.0
+      },
+      "seseh": {
+        "2026-10": 44000000.0,
+        "2026-09": 44000000.0
+      },
+      "denpasar": {
+        "2026-08": 41250000.0
+      },
+      "pererenan": {
+        "2026-10": 37900000.0,
+        "2026-09": 38000000.0,
+        "2026-08": 43000000.0
+      }
+    }
+  }
+}
